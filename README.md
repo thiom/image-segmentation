@@ -57,7 +57,7 @@ The algoritm finds a segmentation that minimizes the total cost.
 There are two different versions. Both are multithredded with omp and take advantage of AVX-512 vector registers.
 I have included a few benchmark results on input images with various sizes (in pixels).
 
-- [Segmentation with color images, AVX-512, double precision](./src/is_avx512) 
+- [Segmentation with color images, AVX-512, double precision](./src/is_avx512)  
 200 x 200: 0.89 s  
 400 x 400: 1.53 s
 
