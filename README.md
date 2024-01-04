@@ -1,7 +1,7 @@
 ## Parellel Image Segmentation
 
 This is a collection of a couple parallel image segmentation algorithms. These will find the best 
-way to partitions the given image in two parts: a monochromatic rectangle and a monochromatic 
+way to partition the given image in two parts: a monochromatic rectangle and a monochromatic 
 background by minimizing the sum of squared errors.
 
 ### Interface function
